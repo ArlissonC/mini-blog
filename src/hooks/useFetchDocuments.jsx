@@ -54,7 +54,6 @@ export const useFetchDocuments = (docCollection, search = null, uid = null) => {
           );
         });
       } catch (error) {
-        console.log(error);
         setError(error.message);
       }
 

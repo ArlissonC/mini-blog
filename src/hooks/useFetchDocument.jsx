@@ -29,7 +29,5 @@ export const useFetchDocument = (docCollection, id) => {
   //   return () => setCancelled(true);
   // }, []);
 
-  console.log(document);
-
   return { document, loading, error };
 };
