@@ -35,7 +35,7 @@ Back-end
 #### Rodando o Projeto 
 ```
 # Clone este repositório
-$ git clone
+$ git clone https://github.com/ArlissonC/mini-blog.git
 
 # Abra o terminal na pasta do projeto
 
